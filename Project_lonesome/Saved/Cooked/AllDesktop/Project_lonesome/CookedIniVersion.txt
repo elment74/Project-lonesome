@@ -3374,6 +3374,7 @@ VersionedIniParams=Input:/Script/Engine.InputSettings:bUseMouseForTouch:False
 VersionedIniParams=Input:/Script/Engine.InputSettings:bCaptureMouseOnLaunch:True
 VersionedIniParams=Input:/Script/Engine.InputSettings:DefaultViewportMouseCaptureMode:CapturePermanently_IncludingInitialMouseDown
 VersionedIniParams=Input:/Script/Engine.InputSettings:bDefaultViewportMouseLock:True
+VersionedIniParams=Input:/Script/Engine.InputSettings:DefaultViewportMouseLockMode:LockOnCapture
 VersionedIniParams=Input:/Script/Engine.InputSettings:ActionMappings:(ActionName="Jump",Key=SpaceBar,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
 VersionedIniParams=Input:/Script/Engine.InputSettings:ActionMappings:(ActionName="Jump",Key=Gamepad_FaceButton_Bottom,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
 VersionedIniParams=Input:/Script/Engine.InputSettings:ActionMappings:(ActionName="Fire",Key=LeftMouseButton,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
@@ -3382,6 +3383,7 @@ VersionedIniParams=Input:/Script/Engine.InputSettings:ActionMappings:(ActionName
 VersionedIniParams=Input:/Script/Engine.InputSettings:ActionMappings:(ActionName="Jump",Key=MotionController_Left_Trigger,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
 VersionedIniParams=Input:/Script/Engine.InputSettings:ActionMappings:(ActionName="ResetVR",Key=R,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
 VersionedIniParams=Input:/Script/Engine.InputSettings:ActionMappings:(ActionName="ResetVR",Key=MotionController_Left_Grip1,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
+VersionedIniParams=Input:/Script/Engine.InputSettings:ActionMappings:(ActionName="Pause",Key=P,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
 VersionedIniParams=Input:/Script/Engine.InputSettings:AxisMappings:(AxisName="MoveForward",Key=W,Scale=1.000000)
 VersionedIniParams=Input:/Script/Engine.InputSettings:AxisMappings:(AxisName="MoveForward",Key=S,Scale=-1.000000)
 VersionedIniParams=Input:/Script/Engine.InputSettings:AxisMappings:(AxisName="MoveForward",Key=Up,Scale=1.000000)
@@ -3825,7 +3827,7 @@ VersionedIniParams=RecomputeTangentCustomVer:5579F886933A4C1F83BA087B6361B92F:1
 VersionedIniParams=VisualLogger:A4237A36CAEA41C98FA218F858681BF3:4
 VersionedIniParams=Paper2DVer:11310AED2E554D61AF679AA3C5A1082C:17
 VersionedIniParams=PackageFileVersions:505:0
-VersionedIniParams=NetworkCompatibleCL:3142249
+VersionedIniParams=NetworkCompatibleCL:3172292
 VersionedIniParams=MaterialShaderMapDDCVersion:4F0644619F9C48FF91E0D494C95EB050
 VersionedIniParams=GlobalDDCVersion:753D597996674C67855E3A31377FCDd0
 

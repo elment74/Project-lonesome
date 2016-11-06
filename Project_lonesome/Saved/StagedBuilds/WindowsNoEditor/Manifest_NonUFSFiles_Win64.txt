@@ -1,5 +1,5 @@
-Engine\Binaries\Win64\UE4Game.exe	2016-10-23T20:27:13.614Z
-Project_lonesome.exe	2016-10-26T19:40:38.055Z
+Engine\Binaries\Win64\UE4Game.exe	2016-10-26T19:56:40.417Z
+Project_lonesome.exe	2016-11-06T17:23:36.219Z
 Engine\Binaries\ThirdParty\PhysX\PhysX-3.3\Win64\VS2015\PhysX3PROFILE_x64.dll	2016-10-23T20:20:49.206Z
 Engine\Binaries\ThirdParty\PhysX\PhysX-3.3\Win64\VS2015\PhysX3CommonPROFILE_x64.dll	2016-10-23T20:20:49.190Z
 Engine\Binaries\ThirdParty\PhysX\PhysX-3.3\Win64\VS2015\PhysX3CookingPROFILE_x64.dll	2016-10-23T20:20:49.192Z
@@ -13,4 +13,4 @@ Engine\Binaries\ThirdParty\Ogg\Win64\VS2015\libogg_64.dll	2016-10-23T20:20:35.37
 Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbis_64.dll	2016-10-23T20:20:49.494Z
 Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbisfile_64.dll	2016-10-23T20:20:49.495Z
 Engine\Binaries\ThirdParty\OpenVR\OpenVRv1_0_2\Win64\openvr_api.dll	2016-10-23T20:20:35.400Z
-Engine\Build\Build.version	2016-10-23T20:27:47.144Z
+Engine\Build\Build.version	2016-10-26T19:56:52.333Z
